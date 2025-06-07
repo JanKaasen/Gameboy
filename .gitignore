@@ -1,0 +1,12 @@
+# Game Boy ROM files
+*.gb
+*.gbc
+
+# Compiled binaries
+test_memory
+*.exe
+*.out
+
+# OS generated files
+.DS_Store
+Thumbs.db
